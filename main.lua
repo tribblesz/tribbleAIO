@@ -1,0 +1,1 @@
+module.load("Tribble_AIO", player.charName.."/main")
